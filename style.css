@@ -233,6 +233,10 @@ h2::after {
     margin: 1rem 0;
 }
 
+.product-price::after{
+    content: " ₽";
+}
+
 .btn {
     display: inline-block;
     background: var(--primary);
