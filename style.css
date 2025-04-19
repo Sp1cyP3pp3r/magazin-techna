@@ -1,9 +1,9 @@
 :root {
-    --primary: #7EB693;
-    --secondary: #FFA5C0;
-    --dark: #2F4F4F;
-    --light: #FFF9F2;
-    --accent: #FF6584;
+    --primary: #e78f54;
+    --secondary: #d3eb7e;
+    --dark: #427c74;
+    --light: #fff2fb;
+    --accent: #65fff2;
 }
 
 body {
@@ -84,13 +84,13 @@ body {
     width: 100%;
     padding: 0.8rem;
     border: 1px solid #ddd;
-    border-radius: 8px;
+    border-radius: 0px;
 }
 
 /* Шапка */
 header {
     background: linear-gradient(rgba(47, 79, 79, 0.9), rgba(47, 79, 79, 0.9)),
-                url('https://images.unsplash.com/photo-1490750967868-88aa4486c946?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+                url('https://yandex-images.clstorage.net/fWe5y6131/9e62cdmC/6VWIJL7ofu-la6SCXoFMN73ljohMNFzmBM2YCwaOO2eBbp9_i4K3CUBBMlX91BUgDFFrpIXxyHKIzTxFoB1Zo0xx_VB7bCsL1Wv1xu4ljZd85NpJmAX9w4QO-7zEiW0AMlkISAxGEiylITaUWYBjtrgQroGzBK1SDWpKJ8Pe3dZJdIsnjBvuixUq5aRd4a-V3UYomP8nCUfwH7rd9fu-IZO7qMu8hUDt16Il0gjxUTW9Q14hEzWNQy8La4cifVz0mlS5J12rDJsn2UcF_HL9R113aMpddSj2s1yoviQKXqABWVh4jZchTFeAZ3JqwKLFDuGM0SFVvWD_2AiVcx8vlSl0SIR_eC2qZ3pllG-CH5S9pjtZDOR4RoGf6X4myd3x8Ro4-s4nc78UQ-RCqoJhJw0SDmCx513SjWrphXONraYLNah1P4luqAap9zWvYswk3LZYKt6EWyXDjkouZio-E1ArqLhdJXCuNiM0YsjwIIXsMf1CYlf9Yh2aihXDD-50a4TbV-y7HRjm26VFvUD91d90ikns9Bk24h56HleJXqIx-wp6XjbBXgfT9VKoMiL0bJJtsZBkrVHvWll1ISy_BgjEWKTcaA6ZFIsHJNwhzMRdVJiIv-RKRoAfKy2Vqz6zk_kquG62EO4XwVVA6rJwxk8SnJED1u-QPchrtZMNbeZJFIhWzeu9ShXopIatMy-3bcQrCf8mKWaBTxr8xFv-I-Npagvd5wGfFkH34giDoWfsUq2z8Ea8Qv-7ecXTDfzky9S69TwYDNolS_WVL3Lc5Y-XKIkuhcrkgD-ZHnbpDMGDq3pqz9Vin2RANyIrIyDWzUIeg1IGvjI-eLoVoS8MNWgEGIet-H74JRu1RNxBHfeM1unozyZ4RzEcGc6EC85w8_j6y60nM083omaSihFzVFyDH8LiBp_h_RpptNOOzlUJp9mkbahsytTp1BYMUvz0vdVaiT0HSRZx36g8lxm9o');
     background-size: cover;
     color: white;
     padding: 4rem 0;
